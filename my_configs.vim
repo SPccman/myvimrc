@@ -7,7 +7,7 @@ set fencs=utf-8,gbk,cp936
 call plug#begin('/opt/vim_runtime/my_plugins')
 Plug 'vim-scripts/a.vim'
 Plug 'neoclide/coc.nvim'
-Plug 'babybus/DoxygenToolkit.vim'
+Plug 'babaybus/DoxygenToolkit.vim'
 Plug 'Yggdroot/LeaderF'
 Plug 'alpertuna/vim-header'
 Plug 'preservim/nerdcommenter'
