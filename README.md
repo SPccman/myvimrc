@@ -54,4 +54,15 @@ rg --no-messages --files --color never  -L --hidden
 
 ```
 rg --no-messages --files --color never  -L --hidden --no-ignore
+
 ```
+
+解决方案:
+```
+:Leaderf file --no-ignore
+```
+
+加载列表时，带上 --no-ignore 参数。
+
+
+
